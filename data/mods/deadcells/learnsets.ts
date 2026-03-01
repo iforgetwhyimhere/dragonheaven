@@ -254,6 +254,7 @@ zombie: {
 			flareblitz: ["9L1"],
 			willowisp: ["9L1"],
 			sunnyday: ["9L1"],
+			partingshot: ["9L1"],
 		},
 	},
 	bombardier: {
@@ -285,6 +286,7 @@ zombie: {
 			flareblitz: ["9L1"],
 			willowisp: ["9L1"],
 			sunnyday: ["9L1"],
+			partingshot: ["9L1"],
 		},
 	},
 	hammer: {
@@ -323,6 +325,7 @@ zombie: {
 			shelter: ["9L1"],
 			bodypress: ["9L1"],
 			gyroball: ["9L1"],
+			partingshot: ["9L1"],
 		},
 	},
 	thorny: {
@@ -3491,7 +3494,6 @@ zombie: {
 			clangoroussoul: ["9L1"],
 			malignantchain: ["9L1"],
 			vcreate: ["9L1"],
-			bloodmoon: ["9L1"],
 			noxioustorque: ["9L1"],
 			takeheart: ["9L1"],
 			hydrosteam: ["9L1"],
